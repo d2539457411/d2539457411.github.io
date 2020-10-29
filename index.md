@@ -8,8 +8,6 @@
       <p><b>邮箱：2539457411@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/signal" width="100%">     %![](图片链接)
-
     </td>
   </tr>
 </table>
