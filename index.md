@@ -1,13 +1,17 @@
-### 信号与系统实践环节
+###信号与系统实践环节
+-
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>丁家辉</h1>
-      <p><b>浙江大宁波理工学院</b></p >
-      <p><b>邮箱：820298714@qq.com</b></p >
+      <h1>戴康</h1>
+      <p><b>浙江大学宁波理工学院</b></p>
+      <p><b>邮箱：2539457411@qq.com</b></p>
     </td>
     <td width="25%">
-      < img src="/signal.jpg" width="100%">      
+      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
+信号与系统实践
+-
+[GitHub](https://github.com/d2539457411/python)
