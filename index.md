@@ -2,6 +2,4 @@
 -
 戴康
 -
-信号与系统实践
--
-[GitHub](https://github.com/d2539457411/python)
+[信号与系统实践环节](https://github.com/d2539457411/python)
